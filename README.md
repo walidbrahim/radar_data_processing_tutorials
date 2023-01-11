@@ -9,6 +9,12 @@ A collection of notebook tutorials on how to process radar data for Ma-Lab stude
 - scipy
 - matplotlib
 - openpyxl
+- PyQt6
+- IPython
 
 # To-Do:
-- Add RRI processing with radar data
+- Add RRI processing with radar data.
+- Add 2DFFT processing
+- Add Angle estimation
+- Add Beamforming
+- Radar recording with DCA1000.
